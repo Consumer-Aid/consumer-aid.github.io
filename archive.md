@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog Archive
+title: Consumer Aid - Blog Archive
 ---
 
 {% for tag in site.tags %}
