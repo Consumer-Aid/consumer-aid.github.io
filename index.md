@@ -1,5 +1,8 @@
-Here you can say lots of fun things about your site.
+Guidance for tackling everyday consumer issues:-
+- Refunds for faulty or poor-quality items
+- Products not delivered
+- Wrong item, size, or colour sent
+- Overcharging, hidden fees, or billing errors
+- Poor customer service or ignored complaints
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Visit our web-site for tailored support: www.consumeraid.co.uk
