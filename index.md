@@ -1,7 +1,6 @@
 Guidance for tackling everyday consumer issues:-
 - Refunds for faulty or poor-quality items
-- Products not delivered
-- Wrong item, size, or colour sent
+- Products not delivered, or wrong item, size, or colour sent
 - Overcharging, hidden fees, or billing errors
 - Poor customer service or ignored complaints
 
