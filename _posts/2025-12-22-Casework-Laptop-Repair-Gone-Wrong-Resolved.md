@@ -8,7 +8,7 @@ The consumer initially took their gaming laptop to a local repair shop for a str
 
 A third‑party technician examined the device and identified clear signs of damage to the logic board. They confirmed that this damage was consistent with poor workmanship, and that a laptop in this condition would never have been able to boot at all. In other words, the faults could not have been present before the repair attempt.
 
-Armed with this report, we contacted the repair shop on the consumer’s behalf. Our goal: to outline the findings, explain the consumer’s rights, and open the door to a constructive settlement conversation. After a series of discussions, we successfully negotiated a settlement that both acknowledged the damage and provided the consumer with a fair outcome.
+Armed with this report, we contacted the repair shop on the consumer’s behalf. Our goals: to outline the findings, explain the consumer’s rights, and open the door to a constructive settlement conversation. After a series of discussions, we successfully negotiated a settlement that both acknowledged the damage and provided the consumer with a fair outcome.
 
 This case demonstrates how independent evidence and a measured approach can prevent disagreements from spiralling into lengthy or expensive conflicts. Most importantly, it shows that consumers don’t have to navigate these situations alone: support is available, and disputes can be resolved without escalating into drawn‑out battles.
 
