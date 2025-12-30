@@ -9,4 +9,4 @@
 - Overcharging, hidden fees, or billing errors
 - Poor customer service or ignored complaints
 
-Visit our web-site for tailored support: www.consumeraid.co.uk
+Visit our web-site for tailored support: [www.consumeraid.co.uk](https://www.consumeraid.co.uk)
