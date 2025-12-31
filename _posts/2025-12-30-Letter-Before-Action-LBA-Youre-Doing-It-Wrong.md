@@ -1,3 +1,7 @@
+---
+description: Customer rights lawyers stress that a proper LBA matters. Learn the consumer‑law mistakes people make and how to write an effective Letter Before Action.
+---
+
 # Letter Before Action? You're Probably Doing It Wrong.
 
 A Letter Before Action (LBA), also known as a Letter of Claim under the pre-action protocols, is supposed to be a serious, final step in a dispute. It's the equivalent of saying, *"I've tried literally everything else - here is your final chance before I take this to court"*.
@@ -108,7 +112,7 @@ Despite popular belief, an LBA is not a magic intimidation tool. Businesses, esp
 
 A sloppy emailed chain padded with generic template language, demanding remedies you are not entitled to and misquoting legislation you do not understand looks amateurish and will not have the effect you think it will. It looks even worse when your template politely "offers ADR" while you simultaneously refuse to use the ADR scheme that is already open to you.
 
-# So what should an LBA be?
+## So what should an LBA be?
 
 A well-constructed LBA is:
 
