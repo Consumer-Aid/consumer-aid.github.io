@@ -1,3 +1,7 @@
+---
+description: A real UK consumer law case: how evidence and consumer protection rights helped resolve a faulty laptop repair without a Consumer Ombudsman or going to court.
+---
+
 # Casework: Laptop Repair Gone Wrong
 
 We recently supported a consumer through a frustrating dispute with a computer repair shop. It’s a great example of how early our intervention made all the difference. Often, parties get drawn into peripheral details that only cloud the dispute and frustrate both sides. By approaching the issue calmly and objectively, we were able to open a more constructive dialogue than the consumer might have achieved on their own, helping move the dispute toward a fair resolution.
