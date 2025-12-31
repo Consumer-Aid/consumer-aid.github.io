@@ -1,5 +1,5 @@
 ---
-description: A real UK consumer law case: how evidence and consumer protection rights helped resolve a faulty laptop repair without a Consumer Ombudsman or going to court.
+description: A real UK consumer law case - how evidence and consumer protection rights helped resolve a faulty laptop repair without a Consumer Ombudsman or going to court.
 ---
 
 # Casework: Laptop Repair Gone Wrong
