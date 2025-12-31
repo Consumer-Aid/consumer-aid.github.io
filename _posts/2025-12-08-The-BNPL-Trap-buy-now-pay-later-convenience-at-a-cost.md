@@ -1,3 +1,7 @@
+---
+description: BNPL convenience hides major consumer protection gaps. Learn the risks, why the law hasn't caught up, and what steps to take if things go wrong.
+---
+
 # The BNPL Trap: Convenience at a Cost
 
 Buy Now, Pay Later. It looks like the perfect deal: split your payments, pay no interest, and walk away with your purchase today. But behind the glossy marketing lies a trap, one that leaves UK consumers without the protections they'd expect from traditional credit.  
