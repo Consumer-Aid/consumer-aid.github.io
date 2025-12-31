@@ -2,7 +2,7 @@
 
 <br/>
 
-## Guidance for tackling everyday consumer issues:-
+# Guidance for tackling everyday consumer issues:-
 
 - Refunds for faulty or poor-quality items
 - Products not delivered, or wrong item, size, or colour sent
